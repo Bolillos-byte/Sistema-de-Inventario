@@ -1,0 +1,6 @@
+{
+  "nombre_negocio": "Papelería El Punto",
+  "moneda": "MXN",
+  "impuesto": 0.16,
+  "categorias": ["Papelería", "Electrónica", "Regalos"]
+}
